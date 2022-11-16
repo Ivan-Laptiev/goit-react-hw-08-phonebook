@@ -1,0 +1,22 @@
+.label {
+    display: flex;
+    align-items: flex-end;
+}
+
+.label input {
+    border: 1px solid gray;
+    margin-top: 15px;
+    width: 180px;
+    height: 20px;
+    margin-left: 65px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.label input:focus{
+    border: 1px solid #81b9e7;
+}
+
+.label input:hover{
+    border: 1px solid #81b9e7;
+}

@@ -1,0 +1,24 @@
+.titleLinc{
+    font-size: 28px;
+    font-weight: 700;
+    color: #d1fa1c;
+    
+}
+
+.titleLinc:hover,
+.titleLinc:focus {
+    color: #b647ea;
+}
+
+.homeLinc{
+    margin-left: 45px;
+    font-size: 28px;
+        font-weight: 700;
+        color: #d1fa1c;
+       
+}
+
+.homeLinc:hover,
+.homeLinc:focus {
+    color: #b647ea;
+}

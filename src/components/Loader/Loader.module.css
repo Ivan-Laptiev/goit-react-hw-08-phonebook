@@ -1,0 +1,9 @@
+.BoxLoader {
+    display: flex;
+  margin-left: auto;
+  margin-bottom: auto;
+  width: 100vw;
+    height: 50vw;
+    justify-content: center;
+    align-items: center;
+}

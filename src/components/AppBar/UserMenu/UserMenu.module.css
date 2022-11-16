@@ -1,0 +1,30 @@
+.container {
+    height: 45px;
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    margin-right: 4px;
+}
+
+.text {
+    font-weight: 700;
+    margin-right: 16px;
+    color: #fafafa;
+}
+
+.userBtn {
+    font-size: 14px;
+    font-weight: 700;
+    background-color: rgb(245, 250, 150);
+    width: 80px;
+    height: 30px;
+    
+}
+
+.userBtn:hover{
+    background-color: #879df4;
+    color: rgb(0, 0, 0);
+    border: none;
+}
